@@ -1,4 +1,4 @@
-# ProjectA2
+# TeamBlue CSC3210
 Team Blue:
 
 Pavan Namani
